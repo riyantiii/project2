@@ -100,7 +100,7 @@
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
       <h1>Welcome to Day</h1>
       <h2>We are team of talented designers making websites with Bootstrap</h2>
-      <a href="forms/dashboard.php" class="btn-get-started scrollto">Login</a>
+      <a href="login.php" class="btn-get-started scrollto">Login</a>
     </div>
   </section><!-- End Hero -->
 

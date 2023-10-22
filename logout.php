@@ -6,5 +6,5 @@ session_start();
 session_destroy();
  
 // mengalihkan halaman ke halaman login
-header("location:dashboard.php");
+header("location:login.php");
 ?>

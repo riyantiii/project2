@@ -51,7 +51,7 @@ if($cek > 0){
 		header("location:index.php?pesan=gagal");
 	}	
 }else{
-	header("location:dashboard.php?pesan=gagal");
+	header("location:login.php?pesan=gagal");
 }
  
 ?>
