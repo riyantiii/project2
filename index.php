@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Inventory Barang</title>
+  <title>Toko Fotocopy Online</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -40,16 +40,16 @@
 
   <!-- ======= Top Bar ======= -->
   <section id="topbar" class="d-flex align-items-center">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">riyantiriyanti1214@gmail.com</a>
-        <i class="bi bi-phone-fill phone-icon"></i> +1 5589 55488 55
-      </div>
-      <div class="social-links d-none d-md-block">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+  <div class="container d-flex justify-content-center justify-content-md-between">
+  <div class="contact-info d-flex align-items-center">
+  <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">digitalskyramm@gmail.com</a>
+  <i class="bi bi-phone-fill phone-icon"></i> +1 5589 55488 55
+  </div>
+  <div class="social-links d-none d-md-block">
+  <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+  <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+  <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+  <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
       </div>
     </div>
   </section>
@@ -58,7 +58,7 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="dashboard.php">Inventory Barang</a></h1>
+      <h1 class="logo"><a href="dashboard.php">Toko Fotocopy Online</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -69,7 +69,7 @@
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+         
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -98,8 +98,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
-      <h1>Welcome to Day</h1>
-      <h2>We are team of talented designers making websites with Bootstrap</h2>
+      <h1>Digital Skyram</h1>
+      <h2>Digital Skyram adalah toko fotocopy yang melayani jasa print,<br>membuat undangan maupun kartu aqiqahan juga menyediakan<br> peralatan ATK,dan kebutuhan kerja.</h2>
       <a href="login.php" class="btn-get-started scrollto">Login</a>
     </div>
   </section><!-- End Hero -->
@@ -108,35 +108,39 @@
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
+    <div class="store-landing" style="background-color: #F8F6F3; background-attachment: fixed; padding: 150px 0 150px 0;">
       <div class="container">
-
         <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          <div class="col-md-12 text-center">
+            <h1 class="" style="font-size: 60px;"><b>Digital Skyram</h1>
+            <h5 class=""><b>Toko Fotocopy yang murah dan terjangkau</h5>
+            <a href="https://wa.me/message/X76DQCFE4IYTC1" target="_blank" class="btn btn-success mt-2 px-4 py-2 text-white"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 18 18">
+                <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z" />
+              </svg> Hubungi Kami</a>
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
+        </div>
+      </div>
+    </section>
+    <section class="store-adventeges" id="adventeges">
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-12">
+            <h2 class="font-weight-bold mb-2"><b>Digital Skyram</h2>
+            <center><hr style="border-top: 5px solid black; width: 200px;">
+          </div>
+        </div>
+        <div class="row text-center">
+          <div class="col-md-12">
+          <p align="justify">Usaha fotocopy DIGITAL SKYRAM merupakan usaha perseorangan Usaha fotocopy DIGITAL SKYRAM merupakan usaha dalam bidang fotocopy yang di peruntukkan untuk segala kalangan dimana menyediakan jasa fotocopy,jilid laminating dan ATK konsep dari usaha jasa fotocopy kami ini adalah layanan prima 14 jam Jadi, DIGITAL SKYRAM berusaha memberikan layanan terbaik bagi pelanggan yaitu dengan jam kera 14 jam hal ini  dimaksudkan agar para konsumen tidak kesulitan mencari tempat totocopy yang buka 14 jam selain itu  kami juga akan melayani dengan cepat,rpi dan ramah</p>
+        
+        <div class="row text-center" style="margin-top: 100px;">
+          <div class="col-12">
+            <h2 class="font-weight-bold"><b>Visi Misi dan Tujuan </h2>
+            <center><hr style="border-top: 5px solid black; width: 200px;">
           </div>
         </div>
 
-      </div>
-    </section><!-- End About Section -->
-
-    <!-- ======= Why Us Section ======= -->
+          <!-- ======= Why Us Section ======= -->
     <section id="why-us" class="why-us">
       <div class="container">
 
@@ -145,24 +149,24 @@
           <div class="col-lg-4" data-aos="fade-up">
             <div class="box">
               <span>01</span>
-              <h4>Lorem Ipsum</h4>
-              <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+              <h4>Visi</h4>
+              <p align="justify">Dengan adanya mendirikan usaha foto copy dan atk menjadi perusahaan menyediakan alat tulis kantor serta peralatn foto copy lainnya dengan jaringan toko yang luas. Menyediakan barang-barang yang terbaik sehingga memperoleh tingkat keuntungan bagi para pemilik toko</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
             <div class="box">
               <span>02</span>
-              <h4>Repellat Nihil</h4>
-              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+              <h4>Misi</h4>
+              <p align="justify">Menghadirkan suatu model perusahaan modern yang menolak KKN sebagai jembatan laju perusahaan agar dapat menimbulkan rasa aman serta coat efficiency, baik bagi mitra usaha pengguna jasa foto copy maupun karyawan sehingga kepuasan koperhenshif dapat tercapai</p>
             </div>
           </div>
 
-          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
             <div class="box">
               <span>03</span>
-              <h4> Ad ad velit qui</h4>
-              <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+              <h4>Tujuan</h4>
+              <p align="justify">Tujuan utama mendirikan ATK ini adalah Jasa Foto copy dan ATK sesuatu hal yang tidak bisa lepas dari kebutuhan masyarakat seperti pelajar,kantoran ataupan yang lainnya.Perkembangan usaha ini akan meningkat seiring peningkatan yang pesat di dunia maupun di kalangan pelajar dan perkantoran yang membuat usaha ini di cari dan di dubutuhkan oleh semua orang.</p>
             </div>
           </div>
 
@@ -170,6 +174,7 @@
 
       </div>
     </section><!-- End Why Us Section -->
+  <!-- akhir slider -->
 
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
@@ -470,7 +475,7 @@
     </section><!-- End Pricing Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
+   <!-- <section id="team" class="team">
       <div class="container">
 
         <div class="section-title">
