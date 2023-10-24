@@ -49,11 +49,11 @@
                     <div class="card-body p-0">
                         <!-- Nested Row within Card Body -->
                         <div class="row">
-                            <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
+                        <img src="assets/img/print.png"style="width:460px;height:550px";/>
                             <div class="col-lg-6">
                                 <div class="p-5">
                                     <div class="text-center">
-                                        <h1 class="h4 text-gray-900 mb-4"><b>Selamat Datang</h1>
+                                        <h1 class="h4 text-gray-900 mb-4"><b>Belanja Lebih Mudah...</h1>
                                     </div>
                                     <form action="cek_login.php" method="post">
                                         <div class="form-group">
@@ -85,7 +85,7 @@
                                     </form>
                                     <hr>
                                     <div class="text-center">
-                                        <a class="small" href="forgot-password.html">Lupa Password?</a>
+                                        <a class="small" href="forgot_password.php">Lupa Password?</a>
                                     </div>
                                     <div class="text-center">
                                         <a class="small" href="forms/register.html">Buat Akun Sekarang!</a>
@@ -110,7 +110,7 @@
     <script src="forms/vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for all pages-->
-    <script src="js/sb-admin-2.min.js"></script>
+    <script src="forms/js/sb-admin-2.min.js"></script>
 
 </body>
 
