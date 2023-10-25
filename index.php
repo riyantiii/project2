@@ -58,7 +58,7 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="dashboard.php">Toko Fotocopy Online</a></h1>
+      <h1 class="logo"><a href="dashboard.php">Lelang Online</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -79,15 +79,132 @@
     </div>
   </header><!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
-    <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
-      <h1>Digital Skyram</h1>
-      <h2>Digital Skyram adalah toko fotocopy yang melayani jasa print,<br>membuat undangan maupun kartu aqiqahan juga menyediakan<br> peralatan ATK,dan kebutuhan kerja.</h2>
-      <a href="product.php" class="bi bi-cart-fill btn btn-primary"> Shop Now</a>
-      
+  <!-- Carousel Start -->
+  </div>
+   </div>
+  </div>
+ </div>
+  <div class="row-10">
+    <div class="container-fluid px-0 mb-5">
+      <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="w-100" src="assets/img/Ppdb-11.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="w-100" src="assets/img/ppdb-6.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="w-100" src="assets/img/ppdb-3.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="w-100" src="assets/img/ppdb-7.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="w-100" src="assets/img/Bcc.png" alt="Image" />
+            <div class="carousel-caption">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-lg-10 text-start">
+                    <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
+                    <h1 class="display-1 text-white mb-5 animated slideInRight"></h1>
+                    <a href="" class=""></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
     </div>
-  </section><!-- End Hero -->
+    <!-- Carousel End -->
+
+    <main id="main">
+</div>
+
+    <!-- ======= Services Section ======= -->
+    <section id="service" class="services pt-0">
+      <div class="container" data-aos="fade-up">
+
+       <div class="row gy-3">
+          <div class="col-lg-4 col-md-3" data-aos="fade-up" data-aos-delay="">
+            <div class="">
+              <div class="card-img">
+           <img src="assets/img/home-1.png" alt="" class="img-fluid">
+              </div>
+              
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-3" data-aos="fade-up" data-aos-delay="">
+            <div class="">
+             <div class="card-img">
+               <img src="assets/img/home-2.png" alt="" class="img-fluid">
+              </div>
+              
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-4 col-md-3" data-aos="fade-up" data-aos-delay="">
+            <div class="">
+              <div class="card-img">
+                <img src="assets/img/home-3.png" alt="" class="img-fluid">
+              </div>
+              
+            </div>
+          </div><!-- End Card Item -->
+   
 
   <main id="main">
 
